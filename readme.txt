@@ -1,0 +1,1 @@
+No momento a aplicação ainda está em fase inicial, futaramente, terminarei de codificar.
